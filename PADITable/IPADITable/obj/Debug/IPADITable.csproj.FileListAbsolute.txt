@@ -1,0 +1,5 @@
+C:\Users\Joao\Desktop\MEIC\1ano2sem\PADI\Projecto\PADITable\IPADITable\bin\Debug\IPADITable.dll
+C:\Users\Joao\Desktop\MEIC\1ano2sem\PADI\Projecto\PADITable\IPADITable\bin\Debug\IPADITable.pdb
+C:\Users\Joao\Desktop\MEIC\1ano2sem\PADI\Projecto\PADITable\IPADITable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joao\Desktop\MEIC\1ano2sem\PADI\Projecto\PADITable\IPADITable\obj\Debug\IPADITable.dll
+C:\Users\Joao\Desktop\MEIC\1ano2sem\PADI\Projecto\PADITable\IPADITable\obj\Debug\IPADITable.pdb
